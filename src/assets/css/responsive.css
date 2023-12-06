@@ -1,0 +1,155 @@
+@media screen and (max-width: 1366px) {
+  
+}
+
+@media screen and (max-width: 1199px) {
+   
+}
+
+@media screen and (max-width: 1024px) {
+   
+}
+
+@media screen and (max-width: 991px) {
+   
+
+}
+
+
+@media screen and (max-width: 767px) {
+    
+    .hero-slider-img-banner div#tns1-ow {
+    height: 100%;
+}
+
+.hero-slider-img-banner div#tns1-mw {
+    height: 100%;
+}
+
+.hero-slider-img-banner div#tns1-iw {
+    height: 100%;
+}
+
+.hero-slider-img-banner .hero-tiny-slider-bg .slider-item-bg img {
+    max-height: 842px;
+}
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    section {
+    overflow: hidden;
+}
+    .logo-header {
+        position: relative;
+        margin: 0px auto;
+        max-width: 170px;
+    }
+    
+    .header-top {
+        padding-top: 0px;
+    }
+    
+    .header-contact-info ul.hci-list li {
+        width: 100%;
+    }
+    
+    .single-blocks-hci.sbh-address {
+        min-height: unset;
+        padding: 10px;
+        text-align: center;
+        display: none;
+    }
+    
+    .single-blocks-hci.sbh-call {
+        text-align: center;
+        position: relative;
+        margin-top: -23px;
+    }
+    
+    .single-blocks-hci.sbh-call>span {
+        font-size: 12px;
+    }
+    
+    .single-blocks-hci.sbh-call .sbh-wrap a, .single-blocks-hci.sbh-call .sbh-wrap a p {
+        font-size: 12px;
+    }
+    button.navbar-toggler {
+        color: #fff;
+        border: 1px solid #fff;
+        margin: 8px auto;
+        width: 40px;
+        padding: 6px 4px;
+    }
+    
+    span.navbar-toggler-icon {
+        border: 2px solid #fff;
+        border-left: 0px;
+        border-right: 0px;
+        position: relative;
+        height: 20px;
+    }
+    
+    span.navbar-toggler-icon:after {
+        position: absolute;
+        content: '';
+        height: 2px;
+        width: 100%;
+        background-color: #fff;
+        top: 7px;
+        left: 0px;
+    }
+    .navbar ul.navbar-nav li a {
+        text-align: center; 
+    } 
+    .navigation-right-side-content .custom-links a  {
+        text-align: center;
+        display: block;
+    }
+    header.venice-header-v2 .header-top .header-contact-info p {
+        text-align: center;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    
+    header.venice-header-v2 ul.h-social-icon {
+        text-align: center;
+        margin-top: 10px;
+    }
+    
+    header.venice-header-v2 .header-contact-info {
+        margin: 10px auto 0px;
+    }
+    
+    header.venice-header-v2 .header-social {
+        display: none;
+    }
+    
+    header.venice-header-v2 button.navbar-toggler {
+        background-color: #272161;
+    }
+    
+    .contact-info ul li {
+        width: 100%;
+    }
+
+    .features-section .image-column .image-box {
+        margin: 0px auto;
+    }
+}
+
+@media screen and (max-width: 526px) {
+
+ 
+}
+
+@media screen and (max-width: 480px) {
+
+   
+}
