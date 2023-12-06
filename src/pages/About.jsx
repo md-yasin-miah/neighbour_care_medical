@@ -1,7 +1,24 @@
+import HeroSection from "../components/shared/HeroSection"
 
 const About = () => {
   return (
     <div>
+      <HeroSection
+        data={{
+          title: "About",
+          list: [
+            {
+              name: "Home",
+              link: "/"
+            },
+            {
+              name: "About",
+              link: "/about"
+            }
+
+          ]
+        }}
+      />
       <section className="about-us-page-area">
         <div className="container">
           <div className="row">
